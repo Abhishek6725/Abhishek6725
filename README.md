@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
-<!-- <img align="right" width="400" alt="Coding" src="Assets/soloimage.gif"> -->
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abhishek6725/count.svg?"  />
@@ -15,12 +15,12 @@
 Passionate aspiring software engineer with a strong focus on technology and problem-solving.Dedicated to create innovative solutions and staying updated with industry trends. Completed secondary education from Kendriya Vidyalaya and now pursuing Graduation in B.tech CSE from Lovely Professional University 🎓
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [mandalsneh97@gmail.com](mailto:abhishek777661@gmail.com)
+* ✉️  You can contact me at [abhishek777661@gmail.com](mailto:abhishek777661@gmail.com)
 * 🧠  I'm learning Full Stack Web Development , Problem Solving : Java + DSA
 * ⚡  I think I can adapt myself anywhere and make my surroundings people and everyone happy...
 
@@ -64,11 +64,11 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
 ## ⚡ GITHUB STATS :
 <div align=center>
-<a href="http://www.github.com/bewithsnehasish"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=bewithsnehasish&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="bewithsnehasish's GitHub stats" /></a>
+<a href="http://www.github.com/Abhishek6725"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=Abhishek6725&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Abhishek's GitHub stats" /></a>
 
-<a href="http://www.github.com/bewithsnehasish"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bewithsnehasish&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
+
+<a href="https://github.com/Abhishek6725" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abhishek6725&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
 </div>
 
 ###
@@ -80,10 +80,6 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
   [![Abhishek's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek6725&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abhishek6725/Abhishek6725/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
