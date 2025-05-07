@@ -66,7 +66,7 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 <div align=center>
 <a href="http://www.github.com/Abhishek6725"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=Abhishek6725&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Abhishek's GitHub stats" /></a>
 
-
+  <img src="https://streak-stats.demolab.com?user=Abhishek6725&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&token=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" height="150" alt="streak graph" />
 
 <a href="https://github.com/Abhishek6725" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abhishek6725&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
 </div>
