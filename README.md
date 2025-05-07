@@ -12,7 +12,7 @@
 </div>
 
 # 💫 ABOUT ME :
-Passionate aspiring software engineer with a strong focus on technology and problem-solving.Dedicated to create innovative solutions and staying updated with industry trends. Completed secondary education from Kendriya Vidyalaya and now pursuing Graduation in B.tech CSE from Lovely Professional University 🎓
+Passionate aspiring software engineer with a strong focus on technology and problem-solving.Dedicated to create innovative solutions and staying updated with industry trends. Completed secondary education from DAV Public School and now pursuing Graduation in B.tech CSE from Lovely Professional University 🎓
 ###
 
 
